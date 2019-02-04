@@ -31,11 +31,11 @@ $(call inherit-product, vendor/pixeldust/config/common_full_phone.mk)
 BOARD_VENDOR := Xiaomi
 PRODUCT_BRAND := Xiaomi
 PRODUCT_DEVICE := helium
-PRODUCT_NAME := pixeldust_helium
+PRODUCT_NAME := pixeldust_hydrogen
 PRODUCT_MANUFACTURER := Xiaomi
-PRODUCT_MODEL := Mi Max Prime
+PRODUCT_MODEL := Mi Max
 TARGET_VENDOR := Xiaomi
-CUSTOM_BUILD_TYPE := OFFICIAL
+CUSTOM_BUILD_TYPE := UNOFFICIAL
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_MINIMAL_APPS := true
 TARGET_GAPPS_ARCH := arm64
