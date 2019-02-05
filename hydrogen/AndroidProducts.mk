@@ -16,4 +16,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/pixeldust.mk
+     $(LOCAL_DIR)/full_hydrogen.mk \
+     $(LOCAL_DIR)/pixeldust_hydrogen.mk
